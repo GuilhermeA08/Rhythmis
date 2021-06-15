@@ -1,2 +1,11 @@
 @import url("general.css");
 @import url("reset.css");
+
+h1,
+h2,
+h2,
+h4,
+p {
+  font-family: "Inter";
+  font-weight: 700;
+}
