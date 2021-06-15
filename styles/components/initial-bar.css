@@ -1,0 +1,19 @@
+.initial-bar {
+  width: 90%;
+  margin: 12px auto;
+  display: flex;
+  justify-content: space-between;
+  align-content: center;
+}
+
+.initial-bar__menu {
+  display: flex;
+}
+
+.initial-bar__menu :first-child {
+  margin-right: 16px;
+}
+
+.initial-bar__menu :last-child {
+  margin-top: 5px;
+}
