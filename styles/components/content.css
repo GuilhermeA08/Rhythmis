@@ -1,0 +1,8 @@
+.content h1,
+.content h2,
+.content h3,
+.content h4,
+p {
+  margin-left: 15px;
+  margin-bottom: 24px;
+}
