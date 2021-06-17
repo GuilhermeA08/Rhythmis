@@ -23,6 +23,7 @@
 .content__card-playlist--small__group {
   display: flex;
   justify-content: space-around;
+  margin-bottom: 10px;
 }
 
 .content__card-playlist--small {
