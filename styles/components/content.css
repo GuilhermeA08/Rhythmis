@@ -1,8 +1,41 @@
-.content h1,
-.content h2,
-.content h3,
-.content h4,
-p {
+.content__text {
   margin-left: 15px;
   margin-bottom: 24px;
+}
+
+.content__card-playlist {
+  background-color: #f2f2f2;
+  width: 351px;
+  margin-left: 12px;
+  margin-bottom: 10px;
+}
+
+.content__card-playlist__img {
+  width: 351px;
+  height: 180px;
+  object-fit: cover;
+}
+
+.content__card-playlist__text {
+  height: 70px;
+}
+
+.content__card-playlist--small__group {
+  display: flex;
+  justify-content: space-around;
+}
+
+.content__card-playlist--small {
+  background-color: #f2f2f2;
+  width: 171px;
+}
+
+.content__card-playlist--small__img {
+  width: 171px;
+  height: 146px;
+}
+
+.content__card-playlist--small__text {
+  height: 80px;
+  margin: auto;
 }
